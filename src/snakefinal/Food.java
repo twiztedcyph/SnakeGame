@@ -1,8 +1,4 @@
-/*
- * Shitty version of snake I was attempting to make... No comments in the code :p
- */
 
- 
 package snakefinal;
 
 import java.awt.Color;
